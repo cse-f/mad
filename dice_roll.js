@@ -53,7 +53,7 @@ fun Dice(){
             5 -> R.drawable.five
             else -> R.drawable.six
         }
-        Image(painter = painterResource(id=img), contentDescription = "dice is showing $result")
+        Image(painter = painterResource(id=img), contentDescription = "dice is showing $result",modifier = Modifier.size(100.dp))
 
         Button(onClick = {
             result = (1..6).random()
