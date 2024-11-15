@@ -6,6 +6,9 @@ ANDROID STUDIO
 4.IncreamentCounter---->       curl https://cse-f.github.io/mad/increament_counter.js
 5.tip_calculator---->       curl https://cse-f.github.io/mad/tip_calci.js
 6.Fragments---->       curl https://cse-f.github.io/mad/fragments.js
-6.explicit_intent---->       curl https://cse-f.github.io/mad/Explicit_intent.js
+7.explicit_intent---->       curl https://cse-f.github.io/mad/Explicit_intent.js
+8.affirmation---->       curl https://cse-f.github.io/mad/affirmation.js
+
+
 
 
