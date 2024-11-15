@@ -2,9 +2,9 @@
 step1:creation of main Activity and second activity
 step2:small changes in xml file
 step1:
+_____________________________________________________________________________________
 
-
-MainActivity....
+MainActivity.kt:--
 
 package com.example.explicitintent
 
@@ -69,8 +69,8 @@ fun SimpleExpilicit(){
 }
 
 
-
-SecondActivity....(create the second activity in the same folder where main activity is there)
+_______________________________________________________________________________________________________________________________
+SecondActivity.kt:---(create the second activity in the same folder where main activity is there)
 
 package com.example.explicitintent
 
@@ -122,7 +122,7 @@ fun DisplayName(myname: String){
 }
 
 
-
+____________________________________________________________________________________________________________________________________________
 STEP 2:----
 
 in AndroidManifest.xml
