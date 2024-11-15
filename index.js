@@ -8,7 +8,9 @@ ANDROID STUDIO
 6.Fragments---->              curl https://cse-f.github.io/mad/fragments.js
 7.explicit_intent---->        curl https://cse-f.github.io/mad/Explicit_intent.js
 8.affirmation---->            curl https://cse-f.github.io/mad/affirmation.js
+9.RoomDataBase ----->         curl https://cse-f.github.io/mad/RoomDataBase.js
 
+  
 
 
 
