@@ -89,7 +89,7 @@ fun DisplayRecords(database: UserDatabase) {
         }
     }
 }
-
+____________________________________________________________________________________________________________________________________________________________
 //2...User.kt(data Class)
 package com.example.roomdatabase
 
@@ -103,7 +103,7 @@ data class User(
     val userName:String,
     val userPhone:String
 )
-
+__________________________________________________________________________________________________________________________________________________________
 //3...UserDAO.kt(interface)
   package com.example.roomdatabase
 
@@ -120,7 +120,7 @@ interface UserDAO {
     suspend fun getAllUsers(): List<User>
 }
 
-
+_________________________________________________________________________________________________________________________________________________
 //4.....UserDatabase.kt(normal class)
 package com.example.roomdatabase
 
@@ -153,7 +153,7 @@ abstract class UserDatabase : RoomDatabase() {
 
     }
 }
-
+_________________________________________________________________________________________________
 step-2...edit gradle file..second file in gradle scripts
 //in plugin add this line
 kotlin("kapt")
