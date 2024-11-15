@@ -13,7 +13,7 @@ KOTLIN
 1.GuessingNumber------->       curl https://cse-f.github.io/mad/GuessNumber.js
 2.PrinSquareOrNull----->       curl https://cse-f.github.io/mad/SquareOrNull.js
 3.GreetingMsg---------->       curl https://cse-f.github.io/mad/Greeting.js
-4.Dwellings(Hierarchy)->
+4.Dwellings(Hierarchy)->       curl https://cse-f.github.io/mad/dwelling.js
   
 
 
