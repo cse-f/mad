@@ -5,3 +5,6 @@ ANDROID STUDIO
 3.DiceRoll---->       curl https://cse-f.github.io/mad/dice_roll.js
 4.IncreamentCounter---->       curl https://cse-f.github.io/mad/increament_counter.js
 5.tip_calculator---->       curl https://cse-f.github.io/mad/tip_calci.js
+6.Fragments---->       curl https://cse-f.github.io/mad/fragments.js
+
+
